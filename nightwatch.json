@@ -1,10 +1,4 @@
 {
-  "src_folders" : ["tests"],
-
-  "selenium" : {
-    "start_process" : false
-  },
-
   "test_settings" : {
     "default" : {
       "desiredCapabilities": {
