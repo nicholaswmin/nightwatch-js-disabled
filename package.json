@@ -1,0 +1,25 @@
+{
+  "name": "nightwatch-js-disabled",
+  "version": "0.1.0",
+  "description": "A sample Nightwatch JS test harness for running UI tests with JS disabled (for a StackOverflow answer). ",
+  "main": "test.js",
+  "scripts": {
+    "test": "nightwatch test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholaswmin/nightwatch-js-disabled.git"
+  },
+  "keywords": [
+    "nightwatch",
+    "noscript",
+    "js-disabled"
+  ],
+  "author": "@nicholaswmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholaswmin/nightwatch-js-disabled/issues"
+  },
+  "homepage": "https://github.com/nicholaswmin/nightwatch-js-disabled#readme",
+  "devDependencies": {}
+}
