@@ -4,7 +4,7 @@ Sample project for this [S.O answer][SO-answer]
 
 ## Install
 
-### Clone this:
+### Clone/Install
 
 ```bash
 $ git clone https://github.com/nicholaswmin/nightwatch-js-disabled
@@ -12,13 +12,13 @@ $ cd nightwatch-js-disabled
 $ npm install
 ```
 
-### Install NightwatchJS:
+### Install NightwatchJS
 
 ```bash
 $ npm install -g nightwatch
 ```
 
-### Run selenium server:
+### Run selenium server
 
 ```bash
 $ java -jar selenium/selenium-server-standalone-3.9.1.jar
