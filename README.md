@@ -1,6 +1,6 @@
 # Run [NightwatchJS][nightwatchJS] tests with javascript disabled
 
-Sample project for this [S.O answer][SO-answer]
+Sample project for this [S.O answer][SO-answer].
 
 ## Install
 
