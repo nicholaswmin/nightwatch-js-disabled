@@ -37,15 +37,6 @@ the "JavaScript Disabled" warning.
 The configuration that hints to WebDriver that it should start Chromium
 with JS disabled is in `nightwatch.json` in the root directory.
 
-```json
-...
-"chromeOptions" : {
-  "prefs" : {
-    "profile.managed_default_content_settings.javascript": 2
-  }
-}
-```
-
 The tests only run on Chrome, but you can add other browsers/configuration
 if you want to by visiting [NightwatchJS Getting Started][nightwatchJS].
 
